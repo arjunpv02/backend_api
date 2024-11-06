@@ -1,6 +1,0 @@
-# Ignore specific Go files
-go.sum
-handlers.go
-main.go
-models.go
-students.go
